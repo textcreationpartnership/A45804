@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at the anniversary meeting of the sons of clergy-men in the church of S. Mary-Le-Bow, on Thursday, Decemb. 3, 1696 by Z. Isham ...</title>
+            <author>Isham, Z. (Zacheus), 1651-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45804</idno>
+            <idno type="STC">Wing I1070</idno>
+            <idno type="STC">ESTC R8984</idno>
+            <idno type="EEBO-CITATION">12820046</idno>
+            <idno type="OCLC">ocm 12820046</idno>
+            <idno type="VID">94195</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45804)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94195)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 385:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at the anniversary meeting of the sons of clergy-men in the church of S. Mary-Le-Bow, on Thursday, Decemb. 3, 1696 by Z. Isham ...</title>
+                  <author>Isham, Z. (Zacheus), 1651-1705.</author>
+               </titleStmt>
+               <extent>[4], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.L. for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke X, 37 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb facs="tcp:94195:1"/>
+            <pb facs="tcp:94195:1" rendition="simple:additions"/>
+            <head>To my Honoured Friends, and Brethren, the Stewards of the late Meeting of Clergy-Mens Sons.
+<list>
+                  <item>
+                     <hi>Mr.</hi> Edward Teniſon,</item>
+                  <item>
+                     <hi>Mr.</hi> Thomas Breamer,</item>
+                  <item>
+                     <hi>Mr.</hi> Nudigate Owſley,</item>
+                  <item>
+                     <hi>Mr.</hi> Thomas Pindar,</item>
+                  <item>
+                     <hi>Mr.</hi> Jer. Peirce,</item>
+                  <item>
+                     <hi>Mr.</hi> Edward Hinton,</item>
+                  <item>
+                     <hi>Mr.</hi> Martin Carter,</item>
+                  <item>
+                     <hi>Mr.</hi> Benjamin Howel</item>
+                  <item>
+                     <hi>Mr.</hi> Peter Crouch,</item>
+                  <item>
+                     <hi>Mr.</hi> William Stareſmore,</item>
+                  <item>
+                     <hi>Mr.</hi> Samuel Turner,</item>
+                  <item>
+                     <hi>Mr.</hi> Nath. Green.</item>
+               </list>
+            </head>
+            <opener>
+               <salute>Honour'd Brethren,</salute>
+            </opener>
+            <p>I Am ſenſible, I have not done Juſtice to the <hi>Good Samaritan:</hi> But what hath been wanting to his Chara<g ref="char:EOLhyphen"/>cter from the Pulpit, will, I hope, be made up by the <hi>Examples</hi> of thoſe that
+<pb facs="tcp:94195:2"/>heard it. Towards me, I confeſs, your Compaſſion had been greater, if you had <hi>paſſed by</hi> this mean Per<g ref="char:EOLhyphen"/>formance, and only wiſh'd me a better Talent: But ſince you have taken it up, and are willing it ſhould live, you have made your ſelves reſponſible for it; and in your hands I reſpectfully leave it, in Obedience to your Commands, and am,</p>
+            <closer>
+               <signed>SIRS, Your moſt humble Servant, and Affectionate Brother, <hi>Z. ISHAM.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:94195:2"/>
+            <epigraph>
+               <q>
+                  <bibl>LUKE X. 37.</bibl>
+                  <p>— Then ſaid Jeſus unto him, Go, and do thou likewiſe.</p>
+               </q>
+            </epigraph>
+            <p n="1">I. AMongſt the ſeveral Calumnies mali<g ref="char:EOLhyphen"/>liciouſly caſt upon the <hi>Primitive</hi> Chriſtians, and contriv'd by the <hi>Accuſer of the Brethren,</hi>
+               <note place="margin">Rev. 12.10.</note> to prevent our Religion from taking root in the World; the moſt perverſe Imputation was that which was grounded upon their mutual <hi>Fraternity,</hi> and eminent Acts of Charity: <hi>They revile us,</hi> (ſaith a very ancient<note n="*" place="margin">
+                  <hi>Tertul. Apol.</hi> c. 39.</note> Father) <hi>becauſe we call our ſelves Brethren to one another; and deride us for lo<g ref="char:EOLhyphen"/>ving one another ſo well, and being ready to lay down our lives for one another:</hi> And ſurely it was a moſt envenom'd rancour, that could turn the higheſt Vertue into a matter of Re<g ref="char:EOLhyphen"/>proach. For nothing could redound more to the Honour of the Church, than to ſet a Pattern to Mankind of Beneficence, and Kind<g ref="char:EOLhyphen"/>neſs, and unſpotted Affection; and that<note n="†" place="margin">Modicam unusquiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſti<g ref="char:EOLhyphen"/>pem menſtruâ die, vel quum velit, apponit. Haec quaſi depoſita pietatis ſunt: Nam inde non epulis, nec potaculis diſpenſatur; ſed egenis alendis, humandiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> &amp; Pueris, ac Puellis re, ac parentibus deſtitutis, jam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> domeſticis ſenibus; item Naufragis, &amp; ſiqui in metallis, &amp; ſiqui in inſulis, vel in cu<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>diis, duntaxat ex cansâ Dei ſectae, alumni Confeſſionis ſuae fiunt.
+<bibl>
+                     <hi>Id. Ibid.</hi>
+                  </bibl>
+               </note> the
+<pb n="2" facs="tcp:94195:3"/>great Body of Chriſtians was one <hi>Corporation for Charity,</hi> and the <hi>Widows,</hi> and <hi>Orphans</hi> were the <hi>Siſters,</hi> and <hi>Children</hi> of the whole Com<g ref="char:EOLhyphen"/>munity: And S.<note n="*" place="margin">Epiſt. <hi>398.</hi>
+               </note> 
+               <hi>Baſil</hi> tells us, <hi>It was the an<g ref="char:EOLhyphen"/>cient Glory of the Church, That the Chriſtians who travell'd from one end of the World to the other, met every where with Fathers and Bre<g ref="char:EOLhyphen"/>thren.</hi> Accordingly it was this divine Spi<g ref="char:EOLhyphen"/>rit of Love, and Mercy, animating the Church, that chiefly eſtabliſhed our holy Religion, and ſurmounted the Perſecutions againſt it: And this was ſo remarkable, that<note n="*" place="margin">Sozomen <hi>l. 5. c. 16.</hi> Feſti<g ref="char:EOLhyphen"/>nabat, ut Pa<g ref="char:EOLhyphen"/>gani Chri<g ref="char:EOLhyphen"/>ſtianorum aſ<g ref="char:EOLhyphen"/>ſueſcerent of<g ref="char:EOLhyphen"/>ficiis. <hi>Caſſio<g ref="char:EOLhyphen"/>dor. Hiſt. Eccl.</hi> l. <hi>6.</hi> c. <hi>29.</hi>
+               </note> 
+               <hi>Julian</hi> the Apo<g ref="char:EOLhyphen"/>ſtate thought to reſtore <hi>Paganiſm,</hi> by employ<g ref="char:EOLhyphen"/>ing the indulgent Methods of <hi>Chriſtianity;</hi> and to ſupplant our <hi>Faith,</hi> by putting on the Diſguiſe of our <hi>Charity.</hi> I wiſh we had not in the Chriſtian World, a more thriving Inſtance of ſupporting a falſe Worſhip by charitable <hi>Foun<g ref="char:EOLhyphen"/>dations:</hi> But we ought not to be offended with theſe, for the Blemiſhes of the other; nor to deſpiſe an Alms, becauſe the hand is not clean that gives it: And if Deeds of Mercy can be made the Props of <hi>Superſtition,</hi> they will not be leſs powerful in upholding <hi>Truth.</hi> We do not indeed make uſe of <hi>Ap<g ref="char:EOLhyphen"/>paritions,</hi> and frightful Stories from the dead, to perſwade to Charity; nor can we think it ſo meritorious, as to be a price for Eternity:
+<pb n="3" facs="tcp:94195:3"/>But we preſs as earneſtly the Obligation of <hi>honouring God with our Subſtance;</hi>
+               <note place="margin">Prov. 3.9. 1 Tim. 6.18.</note> and of being <hi>rich in good Works, ready to diſtribute, and wil<g ref="char:EOLhyphen"/>ling to communicate;</hi> and with ſuch viſible Succeſs, that if the publick Settlements erected ſince the <hi>Reformation,</hi> (eſpecially within the Precincts of this City) be compar'd, as to the <hi>Wiſdom,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ſefulneſs</hi> of them, with what our <hi>Anceſtors</hi> did before it, we need not fear the coming to an Account with the Church of <hi>Rome:</hi> And our Appearance on this Day, as 'tis a bright Teſtimony againſt one of her Corruptions; ſo 'tis a new Triumph of <hi>Cha<g ref="char:EOLhyphen"/>rity,</hi> for the Security, and Reputation of our Church. Wherefore, in order to the promo<g ref="char:EOLhyphen"/>ting of that pious end which brings this Au<g ref="char:EOLhyphen"/>dience together, I ſhall humbly ſet before you the good <hi>Samaritan;</hi> whoſe <hi>Praiſe is in the Goſpel,</hi> for recovering a poor <hi>Jew,</hi> that was gaſping for Relief, and lay neglected by thoſe that were nearer to him: And hereupon our Saviour propounds his Example, as fit to be imitated by all his Diſciples; though he was himſelf more worthy to be follow'd, as be<g ref="char:EOLhyphen"/>ing the nobleſt <hi>Pattern</hi> of Goodneſs, and Compaſſion, and Benignity, that ever ap<g ref="char:EOLhyphen"/>pear'd in the World.</p>
+            <pb n="4" facs="tcp:94195:4"/>
+            <p n="2">II. The Parable is ſo well known, that I ſhall only take notice of the Occaſion of it; which was the putting of this Queſtion to our great Maſter, Who was to be counted a <hi>Neigh<g ref="char:EOLhyphen"/>bour</hi> in the Senſe of the Law? For the Law running thus,<note place="margin">Levit. 19.18.</note> 
+               <hi>Thou ſhalt love thy Neighbour as thy ſelf;</hi> and the Lawyer (with whom Chriſt was talking) having diſcreetly men<g ref="char:EOLhyphen"/>tion'd this as a neceſſary Precept; (though we are<note n="†" place="margin">Lightfoot.</note> told, it was not written in the Sche<g ref="char:EOLhyphen"/>dules of the Jewiſh <hi>Phylacteries</hi>) he took this Opportunity to requeſt our Saviour's Opi<g ref="char:EOLhyphen"/>nion, in what ſeems to have been then con<g ref="char:EOLhyphen"/>troverted, How far the Relation of a <hi>Neigh<g ref="char:EOLhyphen"/>bour</hi> extended? The Anſwer whereunto is couch'd in the Parable before us, and the Dignity of a Neighbour reſtor'd to the Ori<g ref="char:EOLhyphen"/>ginal Latitude: For the Jewiſh Tradition had excluded <hi>Gentiles,</hi> and <hi>Samaritans</hi> from the Privileges of Neighbours; and none but a Jew, that reſorted to the Temple, was pre<g ref="char:EOLhyphen"/>ſum'd to have any Right to this Title, and to the Benefits reſulting from it: And as for <hi>Idolaters,</hi> and <hi>Schiſmaticks,</hi> how could they (as it was objected) be Neighbours to God's People, that were at a Diſtance from him? And how could ſuch as oppreſs'd, and hated them, claim the Advantages of their Love?
+<pb n="5" facs="tcp:94195:4"/>But our bleſſed Saviour (who came to offer his own Blood for his Enemies) would not endure any ſuch reſtraint upon the Law of Charity: And hereupon to diſcard that nar<g ref="char:EOLhyphen"/>row Interpretation of it, he pitcheth upon a <hi>Samaritan</hi> relieving a <hi>Jew,</hi> whom he knew to be an Enemy to him, both upon a Natio<g ref="char:EOLhyphen"/>nal, and a religious Account; and yet he did not <hi>paſs</hi> by the mangled Creature, as the <hi>Prieſt,</hi> and <hi>Levite</hi> had done; (though they were his Neighbours beyond all diſpute) he did not leave him with a tender Look, or an unprofitable Wiſh; but ſeeing him in ſuch wretched Circumſtances, he falls immediately to the helping of him, and binds up his Wounds, and mitigates his Anguiſh, and continues the Care of him in order to his perfect Recovery. And what could a Man have done more for his kindeſt Neighbour, or his deareſt Friend? And therefore our Sa<g ref="char:EOLhyphen"/>viour artificially concludes from hence, That <hi>every Man is to be treated as a Neighbour.</hi>
+               <note place="margin">Eccl. 50.26</note> For if he had demanded directly, Whether a <hi>Sama<g ref="char:EOLhyphen"/>ritan</hi> Schiſmatick (one of <hi>that fooliſh People dwelling in</hi> Sichem) was comprehended within the Verge of the Precept of Love? the Lawyer would certainly have anſwer'd in the <hi>Negative:</hi> But when he rehearſeth the Kind<g ref="char:EOLhyphen"/>neſs
+<pb n="6" facs="tcp:94195:5"/>of a <hi>Samaritan</hi> towards a <hi>Jew,</hi> this a Jew<g ref="char:EOLhyphen"/>iſh Zealot could not diſapprove of: And by this Circumlocution Chriſt brings him to con<g ref="char:EOLhyphen"/>feſs, That the <hi>Samaritan was Neighbour unto him that fell among the Thieves.</hi> But if a <hi>Sa<g ref="char:EOLhyphen"/>maritan</hi> was Neighbour to a <hi>Jew,</hi> and ought to love him as ſuch, and particularly to re<g ref="char:EOLhyphen"/>lieve him in Diſtreſs; why ſhould not a <hi>Jew</hi> be a Neighbour to a <hi>Samaritan?</hi> And accor<g ref="char:EOLhyphen"/>dingly our Saviour ſubjoins, <hi>Go, and do thou likewiſe:</hi> That is, I approve of your Anſwer; the <hi>Samaritan</hi> was really ſuch a Neighbour as the Law requires; and after his Example, you are to look upon every Perſon that wants Relief, (though he be upon terms of Sepa<g ref="char:EOLhyphen"/>ration, and Enmity towards you) as a fit Ob<g ref="char:EOLhyphen"/>ject of your Compaſſion, and Mercy.</p>
+            <p n="3">III. In proſecuting the Caſe of this good <hi>Samaritan,</hi> as 'tis recommended by Chriſt to our Imitation, I ſhall only deſire you to con<g ref="char:EOLhyphen"/>ſider theſe two Heads: <hi>Firſt,</hi> The Act of Mercy exhibited to one in Diſtreſs: And <hi>Se<g ref="char:EOLhyphen"/>condly,</hi> The peculiar Circumſtances of the Object that was relieved. I begin with the <hi>Firſt</hi> Point, the Act of Mercy towards one in Diſtreſs: And ſince, 'tis ſaid to every one of us, <hi>Go, and do thou, as the good Samaritan did;</hi> I ſhall offer ſome Conſiderations for the
+<pb n="7" facs="tcp:94195:5"/>clearer Enforcement of this Duty. The <hi>Firſt</hi> of them is, That the Principles of natural Re<g ref="char:EOLhyphen"/>ligion oblige us to the ſuccouring of thoſe that are in miſery: For it ſuppoſeth a general <hi>Cognation</hi> between all men, and engageth us in a reciprocal Amity towards one another; and though by prohibiting Rapine, and Invaſion, it ſecures every man in his Property, and Poſ<g ref="char:EOLhyphen"/>ſeſſions; yet it requires us to ſpare ſo much out of our Abundance, as is needful for the cheriſhing of thoſe that are overtaken by Ca<g ref="char:EOLhyphen"/>lamities: And when the indigent, and afflict<g ref="char:EOLhyphen"/>ed are laid in our way, we cannot <hi>paſs by</hi> them careleſly, and unconcernedly, with<g ref="char:EOLhyphen"/>out ſtruggling againſt our own Conſciences, and caſting a Reproach upon the Dignity of our Nature. There is a ſoftneſs, and tender<g ref="char:EOLhyphen"/>neſs interwoven in our Frames; which men cannot eaſily wear out, till they have tranſ<g ref="char:EOLhyphen"/>form'd themſelves into Creatures more ſavage than the Beaſts of the Wilderneſs; and have defac'd thoſe Impreſſions of Vertue, which were planted in their minds: And then in<g ref="char:EOLhyphen"/>deed we ſee by Experience, that by Lewd<g ref="char:EOLhyphen"/>neſs, and prophane Courſes, they learn to be cruel, and inſolent, and unmerciful. But this is a Violence upon our own Conſtitutions, and a <hi>Brutality</hi> that deſtroys the Image of God
+<pb n="8" facs="tcp:94195:6"/>after which we are created; and man loſeth himſelf, when he puts off the Bowels of Com<g ref="char:EOLhyphen"/>paſſion. For where humane Nature is un<g ref="char:EOLhyphen"/>tainted, it inclines to mercy, and lenity; and the beſt Diſpoſitions, and pureſt Souls are always moſt communicative of what is good, and moſt averſe to Rigours, and Inflictions: Which are never eligible, but where <hi>Juſtice</hi> cannot be ſatisfied without them, nor publick <hi>Charity</hi> maintain'd.<note place="margin">Prov. 12.18.</note> 
+               <hi>There is</hi> (ſaith <hi>Solomon</hi>) <hi>that ſpeaketh like the piercings of a Sword; but the tongue of the wiſe is health:</hi> His very Words are Antidotes againſt Evil, and are refreſhing, and healing to thoſe whom he con<g ref="char:EOLhyphen"/>verſeth with; and his Actions are conformable to them, and by doing all the good that lies in his power, he gives the beſt Argument of his being wiſe. For what can be more wiſe<g ref="char:EOLhyphen"/>ly done, than to deliver the oppreſs'd, and the miſerable; to ſuccour the Neceſſities of thoſe that are embark'd in the ſame Veſſel with our ſelves, and to increaſe the Satisfa<g ref="char:EOLhyphen"/>ctions, and allay the Sorrows of one another; to remove the Thorns and Briars that are upon the Face of the Earth, and to turn it into a new <hi>Paradiſe?</hi> Every man is a <hi>Brother</hi> to us, and the help we afford him is given to our own Fleſh: And 'tis the common Intereſt of man<g ref="char:EOLhyphen"/>kind,
+<pb n="9" facs="tcp:94195:6"/>to unite all their Endeavours in chaſing away the Troubles and Diſcomforts of hu<g ref="char:EOLhyphen"/>mane Life. If we at any time fall into Ca<g ref="char:EOLhyphen"/>lamity, or Oppreſſion, we think all good men are concern'd to aſſiſt us; and we juſtly expect it, ſo far as they have Opportunity, and Strength: And then 'tis evident, how far we are bound to ſupport others in an af<g ref="char:EOLhyphen"/>flictive Condition, whoſe Wants by a cha<g ref="char:EOLhyphen"/>ritable Imagination we may transferr upon our ſelves; and it will then be legible in our own breaſts, in what proportion we are to reach forth to them the Communications of our Mercy. For nothing can be more equitable, than to meaſure our Aid, and Kindneſſes to other men, by our own rational Deſires, and juſt Expectations, if their caſe ſhould happen to be ours: And 'tis a Rule eternally to be practis'd,<note place="margin">Mat. 7.12.</note> 
+               <hi>Whatſoever ye would that men ſhould do to you, do ye even ſo to them.</hi>
+            </p>
+            <p n="4">IV. <hi>Secondly,</hi> Let it be conſider'd, That the Chriſtian Religion doth more earneſtly require from us the exerciſing of Mercy, and Charity: And to this purpoſe we have ma<g ref="char:EOLhyphen"/>ny known Leſſons from Chriſt, and his Apoſtles; <hi>Be merciful,</hi>
+               <note place="margin">Luk. 6.36. <hi>and</hi> 11.41.</note> 
+               <hi>as your Father is mer<g ref="char:EOLhyphen"/>ciful; Give alms of ſuch things as you have; for It is more bleſſed to give than to receive:</hi>
+               <note place="margin">Act. 20.35.</note>
+               <pb n="10" facs="tcp:94195:7"/>
+               <hi>Be kindly affectioned one to another with bro<g ref="char:EOLhyphen"/>therly love,</hi>
+               <note place="margin">Rom. 12.10, 13, 21.</note> 
+               <hi>Diſtributing to the neceſſity of Saints; and Be not overcome of evil, but overcome evil with good:</hi>
+               <note place="margin">Heb. 13.16. Jam. 1.27. 1 Joh. 3.17.</note> 
+               <hi>To do good, and to communicate forget not; for with ſuch ſacrifices God is well pleaſed: Pure religion, and undefiled before God is this, to viſit the fatherleſs, and widows in their affliction: But whoſo hath this world's good, and ſeeth his Brother hath need, and ſhutteth up his bowels of compaſſion from him, how dwelleth the love of God in him?</hi> To the like tendency we have many other Inſtru<g ref="char:EOLhyphen"/>ctions; and all of them very agreeable to that divine Inſtitution of Love, which came down to us from Heaven: And they are further confirm'd by the unimitable Life of our ever-bleſſed Redeemer.<note place="margin">Act. 10.38.</note> For <hi>he went about doing good, and healing all that were oppreſſed of the Devil:</hi> His Miracles were Works of Charity; and he was conſtantly employ'd in Kindneſſes and merciful Deeds; in reclaiming Sinners, and inſtructing the ig<g ref="char:EOLhyphen"/>norant, and cheriſhing penitent Souls, and driving away Diſeaſes, and evil Spirits, and feeding the hungry, and opening the Eyes of the blind, and reſcuing the World from the Slavery of Hell: In one Word, he changed the Order of the Creation for Won<g ref="char:EOLhyphen"/>ders
+<pb n="11" facs="tcp:94195:7"/>of goodneſs; and to teach us the art of doing thoſe Offices of Mercy in a <hi>natural</hi> way, which he did by a <hi>ſupernatural</hi> Power. Having therefore ſuch a glorious Leader, let us follow him as well as we can; and though we cannot exactly keep pace with him, and what is ſaid of his Diſciples may befit our Weakneſs;<note place="margin">Mar. 10.32.</note> that as <hi>He went before them, they were amaz'd, and as they follow'd, they were afraid;</hi> yet by his Grace we may ſo far re<g ref="char:EOLhyphen"/>ſemble him, as that he will own us here<g ref="char:EOLhyphen"/>after: And 'tis not above our Chriſtian ſtrength, to form our Behaviour according to the advice of the Apoſtle;<note place="margin">Eph. 5.1, 2.</note> 
+               <hi>Be ye followers of God, as dear children; and walk in love, as Chriſt alſo hath loved us, and hath given himſelf for us, an offering and a ſacrifice to God.</hi>
+            </p>
+            <p n="5">V. <hi>Thirdly,</hi> Let it be conſider'd, That Chriſtian Mercy is more eſpecially exercis'd in providing for the neceſſities of the Soul, and taking compaſſion upon it; inaſmuch as the Soul is nobler than the Body, and all that belongs to it: And this is coming near<g ref="char:EOLhyphen"/>eſt to the unſpeakable Love of <hi>Chriſt,</hi> who deſcended from the boſom of the <hi>Father,</hi> for the ſaving of our immortal Spirits; and <hi>If God ſo loved us, we ought alſo to love another.</hi>
+               <note place="margin">1 Joh. 4.11.</note>
+               <pb n="12" facs="tcp:94195:8"/>To refreſh men under temporal, and outward Evils, is our certain Duty; and as 'tis <hi>Solo<g ref="char:EOLhyphen"/>mon</hi>'s Remark concerning the <hi>day of proſpe<g ref="char:EOLhyphen"/>rity,</hi>
+               <note place="margin">Eccl. 7.14.</note> and the <hi>day of adverſity,</hi> That <hi>God hath ſet the one over againſt the other;</hi> ſo he hath ſet the <hi>plenty</hi> of the rich over againſt the <hi>poverty</hi> of the indigent, that the one ſhould be a ſupport for the other. But ſtill to re<g ref="char:EOLhyphen"/>form Sinners, and propagate the Fear, and Knowledge of God; to <hi>bind up the broken Conſcience,</hi> and <hi>give light to them that ſit in darkneſs,</hi> and <hi>proclaim liberty to the captives of Satan;</hi> to reſcue men from dangerous Pre<g ref="char:EOLhyphen"/>poſſeſſions, and reconcile them to one ano<g ref="char:EOLhyphen"/>ther, or to an offended God; theſe are ſuch Fruits of Mercy, as are moſt acceptable to God,<note place="margin">Luk. 15.10.</note> and create <hi>a joy in the preſence of his</hi> holy <hi>Angels.</hi> Our Saviour intimates to us, That our <hi>ſouls</hi> are of greater value than the <hi>whole world,</hi>
+               <note place="margin">Mat. 16.26.</note> than all the Kingdoms of it, all that Pomp and Glory which he ſaw, and would not accept; and ſo he graciouſly ex<g ref="char:EOLhyphen"/>preſs'd his Eſteem of them, in contemning the World, and dying for them: And let us be as tender of them, as he was; and have as juſt an Opinion of their worth. The cu<g ref="char:EOLhyphen"/>ſtody of our own Souls is committed to us by our Maker; and they cannot be loſt, unleſs
+<pb n="13" facs="tcp:94195:8"/>we ſquander them away: And we have fre<g ref="char:EOLhyphen"/>quent Opportunities of forwarding the Sal<g ref="char:EOLhyphen"/>vation of our Brethren; nay, we have ſe<g ref="char:EOLhyphen"/>veral Obligations to it, correſpondently to the diſtinct relations of Life: And ſo <hi>Pa<g ref="char:EOLhyphen"/>ſtours,</hi> and <hi>Magiſtrates,</hi> and <hi>Parents,</hi> and <hi>Ma<g ref="char:EOLhyphen"/>ſters of Families</hi> have weighty charges of this Nature lying upon them; and it be<g ref="char:EOLhyphen"/>hoves them to be watchful,<note place="margin">Ezek. 3.18.</note> that the <hi>blood of others may not be requir'd at their hands.</hi> Whereas on the contrary it will prove here<g ref="char:EOLhyphen"/>after an ineffable pleaſure, to ſee the Har<g ref="char:EOLhyphen"/>veſt of our Charity, in the Felicity of thoſe whom we pull'd out of the Fire, and re<g ref="char:EOLhyphen"/>ſcu'd from the Entanglements of Vice; or bred up in the Fear of God, and in vertuous Callings: And it will be an endleſs rejoicing, if we ſhall meet in another World with the Orphans that we took into our Care, and educated in Piety; and if we have made any acceſſion to the number of Saints, and to the Praiſes of Eternity.</p>
+            <p n="6">VI. The <hi>Fourth</hi> Conſideration is, That there is an ample Reward to encourage Mercy, and Compaſſion; and that both upon a <hi>mo<g ref="char:EOLhyphen"/>ral,</hi> and upon a <hi>religious</hi> Account. If it be regarded morally, 'tis attended with the Bleſſing of inward Satisfaction and Comfort;
+<pb n="14" facs="tcp:94195:9"/>and 'tis an inexpreſſible Delight to a gene<g ref="char:EOLhyphen"/>rous mind, to mitigate the Sufferings of other men, and to raiſe up a fallen Bro<g ref="char:EOLhyphen"/>ther, and to vanquiſh the Evils of <hi>Fate:</hi> And though there is a ſecret Grief in partaking with our Brethren in their miſeries, and in turning upon our ſelves the arrows that wound them; yet the joy reſulting from the Senſe of having reliev'd them is a laſting Refreſh<g ref="char:EOLhyphen"/>ment: And he that can look upon his Works of Mercy, and the Monuments of his Libe<g ref="char:EOLhyphen"/>rality; and can paſs in a <hi>mental</hi> Reflection through the Objects of his Charity, ſurround<g ref="char:EOLhyphen"/>ed with Prayers, and Benedictions; may have more ſolid Reaſon to rejoice, than a Con<g ref="char:EOLhyphen"/>querour paſſing through a triumphal Arch. Moreover, the taking Compaſſion upon others, and ſuccouring their Wants, is a good ſhelter againſt ſuch Afflictions as may befall our ſelves; and they that have been of a kind, and boun<g ref="char:EOLhyphen"/>tiful temper, and have not been ſparing in their Seed, nor in their Labour, will be ſure to meet with Friends, and proportionable Supplies in the Day of their Calamity: For 'tis true in this ſenſe, as well as in a more ſpiritual one, that <hi>the liberal Soul ſhall be made fat; and he that watereth ſhall be watered alſo himſelf.</hi>
+               <note place="margin">Prov. 11.25.</note> We know not how ſoon we may
+<pb n="15" facs="tcp:94195:9"/>be ſurpriz'd by Croſſes, and Decays; and none of us can plead an Exemption from the common Diſtreſſes, and fatal Accidents of the World: And therefore 'tis the more fit<g ref="char:EOLhyphen"/>ting for us, to <hi>remember them that are in bonds,</hi>
+               <note place="margin">Heb. 13.3.</note> 
+               <hi>as bound with them; and them which ſuffer ad<g ref="char:EOLhyphen"/>verſity, as being our ſelves alſo in the body.</hi> Again, upon a religious account, the recom<g ref="char:EOLhyphen"/>pences of a charitable diſpoſition are very ma<g ref="char:EOLhyphen"/>nifeſt; And,<note place="margin">Prov. 11.17.</note> 
+               <hi>The merciful Man</hi> (as <hi>Solomon</hi> obſerves) <hi>doth good to his own Soul; but he that is cruel troubleth his own Fleſh:</hi> For, as God hates an uncharitable, and ſanguinary Spirit; ſo he is highly pleas'd with Works of Mercy, and always returns them upon the Head of him that performs them. The Beatitude runs thus,<note place="margin">Mat. 5.7.</note> 
+               <hi>Bleſſed are the merciful, for they ſhall obtain mercy;</hi> they ſhall obtain it from God, whoſe Diſtributions are moſt Valuable; and they ſhall obtain it in many Bleſſings of this Life, but moſt eminently in thoſe of another World to their infinite compenſation.<note place="margin">Eccl. 29.11, 12, 13.</note> 
+               <hi>Shut up Alms in thy Store-houſes</hi> (ſaith the Son of <hi>Sirach</hi>) <hi>and it ſhall bring thee more profit than gold; it ſhall deliver thee from all afflition; it ſhall fight for thee againſt thine Enemies better than a mighty ſhield, and ſtrong ſpear:</hi> But the richeſt Advantage of it is, that 'tis the <hi>laying up of
+<pb n="16" facs="tcp:94195:10"/>Treaſures in Heaven;</hi> and our expences upon the Poor will be repaid hereafter, beyond all compariſon with earthly gain; for Chriſt him<g ref="char:EOLhyphen"/>ſelf hath engag'd his Word to us, under the Figure of the good <hi>Samaritan;</hi>
+               <note place="margin">Luk. 10.35.</note> 
+               <hi>Whatſoever thou ſpendeſt, when I come again, I will repay thee.</hi> We cannot forget our Saviour's account of the <hi>laſt Judgment;</hi> what it is that Men will be puniſh'd for the neglect of, and what it is that they will be rewarded for the perfor<g ref="char:EOLhyphen"/>mance of: And this is a ſingular mark of Fa<g ref="char:EOLhyphen"/>vour to acts of Charity, that amongſt all the Chriſtian Graces, they are pitch'd upon as chiefly inſtrumental in procuring Eternal Bliſs, and as turning the ballance for us in the ter<g ref="char:EOLhyphen"/>rible day of trial. The reaſon whereof poſſi<g ref="char:EOLhyphen"/>bly is, becauſe they are the moſt natural Fruits of that <hi>Divine Love,</hi> which is the Fountain of all true Devotion, and the Ornament of the bleſſed Spirits, and is to remain with us for ever in the higheſt Heavens: And hereupon, when they proceed from the right Principle, they imply the conjunction of other Chriſtian Vertues, and a fitneſs for the Kingdom of God.</p>
+            <p n="7">VII. I come now to the <hi>Second</hi> Point in my Text, namely, the peculiar Circumſtances of the Object that was reliev'd by our <hi>Samaritan:</hi>
+               <pb n="17" facs="tcp:94195:10"/>It was a <hi>Jew,</hi> and by conſequence one that hated him, and his Religion; and yet, <hi>Go, and do thou likewiſe.</hi> Let this therefore be the <hi>firſt Obſervation</hi> from hence; That old Quar<g ref="char:EOLhyphen"/>rels and Animoſities, muſt not obſtruct the Manifeſtations of our love; nor bind our hands from doing good,<note place="margin">Mat. 5.44.</note> when there is a Pro<g ref="char:EOLhyphen"/>vidential call to it. For<note n="*" place="margin">Amicos dili<g ref="char:EOLhyphen"/>gere omnium eſt, inimicos autem ſolo<g ref="char:EOLhyphen"/>rum Chriſtia<g ref="char:EOLhyphen"/>norum. <hi>Ter<g ref="char:EOLhyphen"/>tul. ad Scap. c. 1.</hi>
+               </note> 'tis our Maſter's Command, <hi>Love your Enemies;</hi> and therefore when they come in our way, we are rather to regard the <hi>original</hi> relation between them, and us; than any grounds of hatred that have ſprung up ſince, and are of a lower date; and though I meet with one that is to me, as a <hi>Jew</hi> to a <hi>Samaritan,</hi> I muſt not be ſlow in his relief, when I ſee him weltering in his Blood, and calling out for my help. Wherefore when Objects of Mercy are preſented to us, we are to ſeparate their <hi>perſonal</hi> Qualities from their Wants; and if they are <hi>
+                  <g ref="char:V">Ʋ</g>nworthy</hi> in them<g ref="char:EOLhyphen"/>ſelves, or in reſpect of their Dealings with us; yet there is a <hi>Worthineſs</hi> in humane Nature, which no Vices can deveſt a Man of; and there are natural Bonds of Amity, and an univerſal <hi>Conſanguinity,</hi> which no baſeneſs can extinguiſh: and when our common Nature is oppreſs'd, it hath a right to Tenderneſs and Aſſiſtance from all of the ſame Race. It was therefore a
+<pb n="18" facs="tcp:94195:11"/>wretched perverting of the Law, for the<note n="*" place="margin">Maimon.</note> 
+               <hi>Jews</hi> to teach; that <hi>if a Gentile were in danger of Death, they were not bound to deliver him; and if he fell into the Sea, they were not oblig'd to endeavour the taking of him out.</hi> This is con<g ref="char:EOLhyphen"/>trary to common Humanity: for the antece<g ref="char:EOLhyphen"/>dent Rights of Mankind are not to be de<g ref="char:EOLhyphen"/>feated by ſubſequent Diſtinctions; and every one in Miſery is to be reliev'd, not in pro<g ref="char:EOLhyphen"/>portion to his Merits, but to his Diſtreſs; let him be <hi>Jew,</hi> or <hi>Gentile,</hi> Righteous, or Wicked, Friend, or Enemy. He that takes pity on an Enemy, hath gain'd the Victory over him; and a noble Mind would not loſe ſo fair an op<g ref="char:EOLhyphen"/>portunity: And whatever Diſcouragements there may be to his Bounty, 'tis a ſufficient ground for it, that he relieves not the <hi>Enemy,</hi> but the <hi>Man;</hi> and (according to the Prophet's Expreſſion) he <hi>hides not himſelf from his own fleſh.</hi>
+               <note place="margin">Iſa. 58.7.</note> If a Man is my Enemy, let it be his Fault, and not mine; for why ſhould I be Unnatural to him, becauſe he hath been ſo to me? And ſince by Retaliation of Injuries, I ſhould ſeem to take him for my Pattern, and that would be diſhonourable for me; it ought to be my Care, that whatever Violence he offers me, he may neither rob me of my Vertue, nor of my good Name. This there<g ref="char:EOLhyphen"/>fore
+<pb n="19" facs="tcp:94195:11"/>is a rule of <hi>both Teſtaments;</hi>
+               <note place="margin">Prov. 25.21. &amp; Rom. 12.20.</note> 
+               <hi>If thine Ene<g ref="char:EOLhyphen"/>my be hungry, give him bread to eat; and if he be thirſty, give him water to drink.</hi>
+            </p>
+            <p n="8">VIII. <hi>Secondly,</hi> I ſhall <hi>obſerve</hi> from the Caſe of our <hi>Samaritan,</hi> That differences in Reli<g ref="char:EOLhyphen"/>gion ought not to put any ſtop to our Chri<g ref="char:EOLhyphen"/>ſtian love: for we find, that one who doth not worſhip at the ſame Altar with us, may be our Neighbour; and by conſequence be worthy of our love. The chief Contentions between the <hi>Jews</hi> and <hi>Samaritans</hi> were about Religion; and this embitter'd them mightily againſt one another, though they agreed in the <hi>Subſtance</hi> of it, and differ'd only in a <hi>Cir<g ref="char:EOLhyphen"/>cumſtance.</hi> For though<note n="*" place="margin">Mede. Falk<g ref="char:EOLhyphen"/>ner.</note> ſome of great Learn<g ref="char:EOLhyphen"/>ing tell us, that the <hi>Samaritans</hi> worſhipped God under the reſemblance of a Dove, and Circumcis'd their Children in the Name of it, I take this to be a <hi>Jewiſh</hi> Calumny: And though others accuſe them, not only of owning no Scripture beſides the Books of <hi>Moſes,</hi> but alſo of<note n="‖" place="margin">
+                  <hi>Origen.</hi> in <hi>Joh.</hi> p. 327. &amp; in <hi>Matt.</hi> p. 486. <hi>Epiphan. Iſ. Voſſ.</hi>
+               </note> denying the Immortality of the Soul, and the Reſurrection, and the World to come; I do not think this <hi>Leaven of the Sadducees,</hi> had got much amongſt them in our Saviour's days; if we abate<note n="*" place="margin">
+                  <hi>Orig. cont. Celſ. p.</hi> 38. &amp; in <hi>Joh.</hi> p. 218. <hi>Walton. Pro<g ref="char:EOLhyphen"/>leg.</hi> XI.</note> their receiving of the <hi>Pen<g ref="char:EOLhyphen"/>tateuch</hi> alone. But the<note n="‖" place="margin">
+                  <hi>Joſeph.</hi> l. 11. c. 8. &amp; l. 13. c. 6.</note> grand Debate be<g ref="char:EOLhyphen"/>tween the two Nations was concerning the
+<pb n="20" facs="tcp:94195:12"/>Credit of their <hi>Temples,</hi> and the <hi>local</hi> Con<g ref="char:EOLhyphen"/>finement of God's Worſhip; as 'tis rightly ſtated by that notable Woman in the Goſpel,<note place="margin">Joh. 4.20. &amp; 9.</note> 
+               <hi>Our Fathers worſhipped in this Mountain; and ye ſay, that in Jeruſalem is the place where men ought to worſhip:</hi> and yet we ſee, what a Flame this one Controverſie rais'd for many Generations, and produc'd a kind of inve<g ref="char:EOLhyphen"/>terate Antipathy between the contending Par<g ref="char:EOLhyphen"/>ties; ſo that <hi>the Jews had no dealings with the Samaritans,</hi> nor have<note n="†" place="margin">Samaritan. Epiſt. ad Sca<g ref="char:EOLhyphen"/>lig.</note> to this every day. 'Tis ſo too often amongſt Chriſtians; when from ſlight Cauſes of Diſpute, their tempers are ſour'd by a long tract of Contention: and Charity (which is of unqueſtionable Neceſſity) is loſt for Queſtions that poſſibly will not be decided till the ſecond Coming of Chriſt. But from the Parable before us, we may learn that the <hi>Jews</hi> and <hi>Samaritans</hi> ought to be Friends to one ano<g ref="char:EOLhyphen"/>ther: and 'tis a ſtrange Deſcant upon their Caſe, which is made by a<note n="*" place="margin">Maldon. <hi>in</hi> Joan. <hi>p. 527.</hi>
+               </note> Learned <hi>Jeſuite;</hi> That <hi>the Jews hated the Samaritans the more bitterly, becauſe theſe pretended to the ſame Re<g ref="char:EOLhyphen"/>ligion; and ſo</hi> (ſaith he) <hi>true Catholicks hate Cal<g ref="char:EOLhyphen"/>viniſts, and all other Hereticks, worſe than they do Infidels.</hi> God deliver us from ſuch <hi>true Catholicks;</hi> I am ſure, a <hi>true Chriſtian</hi> hates no Man whatever: and therefore inſtead of re<g ref="char:EOLhyphen"/>turning
+<pb n="21" facs="tcp:94195:12"/>their hatred, let us follow a much better Guide; <hi>Bleſs them which perſecute you,</hi>
+               <note place="margin">Rom. 12.14.</note> 
+               <hi>bleſs and curſe not.</hi> 'Tis ſo far from Chri<g ref="char:EOLhyphen"/>ſtian Charity, to hate <hi>Schiſmaticks,</hi> and <hi>He<g ref="char:EOLhyphen"/>reticks;</hi> that 'tis a peculiar Act of it to re<g ref="char:EOLhyphen"/>duce, and convert them: And where our charitable endeavours meet with ſtubbornneſs, we are to remember that it cannot be van<g ref="char:EOLhyphen"/>quiſh'd but by the <hi>Grace</hi> of God; and when he is pleas'd to <hi>co-operate</hi> with our zeal, it will certainly be victorious. We are not told, what return the <hi>Jew</hi> in this Parable made to his Deliverer: But the mercy had been well repaid, if he had brought the <hi>Sa<g ref="char:EOLhyphen"/>maritan</hi> to the Temple which God had ap<g ref="char:EOLhyphen"/>pointed.<note n="†" place="margin">
+                  <hi>In</hi> Johan. <hi>p.</hi> 208.</note> 
+               <hi>Origen</hi> obſerves, that the <hi>Sama<g ref="char:EOLhyphen"/>ritans</hi> are the Figure of thoſe that diſſent from the Church; and that their Mount <hi>Gerizim</hi> is, by the Interpretation of the Word, <hi>Diviſion,</hi> or <hi>Separation:</hi> And then we may conclude, that the beſt healing for a wound<g ref="char:EOLhyphen"/>ed <hi>Samaritan,</hi> is to<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Baſil.</hi> T. 1. p. 320.</note> guide him, and his Sa<g ref="char:EOLhyphen"/>crifices, to the true Temple of God. 'Tis no Charity to flatter men in their miſtakes, to encourage their wandrings by mean <hi>Com<g ref="char:EOLhyphen"/>pliances,</hi> and to betray them in the affairs of their Souls, under the appearances of friendſhip and civility: But 'tis ſo, to en<g ref="char:EOLhyphen"/>deavour
+<pb n="22" facs="tcp:94195:13"/>the gaining of them by ſoftneſs, and forbearance, and gentleneſs; to beware (as much as we can) of inflaming and exaſpe<g ref="char:EOLhyphen"/>rating their minds; to treat them, not as <hi>Adverſaries,</hi> but as miſguided<note n="†" place="margin">Agnoſce me fratrem: ag<g ref="char:EOLhyphen"/>noſco te fra<g ref="char:EOLhyphen"/>trem: ſed, ex<g ref="char:EOLhyphen"/>cepto ſchiſ<g ref="char:EOLhyphen"/>mate, excepto errore, excep<g ref="char:EOLhyphen"/>tâ diſſenſione. <hi>Auguſtin. Supplem.</hi> p. <hi>86.</hi>
+               </note> 
+               <hi>Brethren;</hi> and to pardon their weakneſſes, and hope well of their Salvation. Many that wor<g ref="char:EOLhyphen"/>ſhip here on this, or that <hi>Mountain,</hi> may meet us hereafter in the heavenly <hi>Jeruſalem;</hi> and then we ſhall be aſham'd of our uncharitable diſcords: <hi>To their own Maſter they ſtand, or fall;</hi>
+               <note place="margin">Rom. 14.4.</note> 
+               <hi>and God is able to make them ſtand.</hi>
+            </p>
+            <p n="9">IX. I need not inſiſt longer upon the kindneſs of the <hi>Samaritan reſpectively</hi> to the <hi>Jew:</hi> For there is no diſtance, or enmity between us, and them, whoſe wants we come hither to relieve; and in whoſe Name I am humbly to addreſs my ſelf, to you that are the <hi>Givers</hi> or <hi>Managers</hi> of what is to ſuſtain them. Wherefore to excite your mercy, and liberality, and care towards them; let this be the <hi>Firſt</hi> Encouragement to it, That they are not ſtrangers, or foreigners; but have a particular alliance to us, and are in a manner of the ſame Family with us: And they are not Worſhippers on a remote Moun<g ref="char:EOLhyphen"/>tain, but <hi>Domeſticks</hi> of our Communion; and by this are entitled to your preſent re<g ref="char:EOLhyphen"/>lief.
+<pb n="23" facs="tcp:94195:13"/>Charity is <hi>impartial,</hi> but not <hi>undiſtin<g ref="char:EOLhyphen"/>guiſhing;</hi> it rejects none that are in want, but it may give a <hi>Preference:</hi> And according<g ref="char:EOLhyphen"/>ly 'tis an <hi>Apoſtolical</hi> Rule,<note place="margin">Gal, 6.10.</note> 
+               <hi>As we have oppor<g ref="char:EOLhyphen"/>tunity, let us do good unto all men; eſpecially unto them who are of the houſhold of faith.</hi> There is a growing <hi>Sect</hi> in this Nation of dark, and unaccountable Principles, of an unpopu<g ref="char:EOLhyphen"/>lar behaviour, and of declar'd enmity to the <hi>Church,</hi> and <hi>Magiſtracy,</hi> and <hi>Clergy;</hi> and yet from deſpicable beginnings 'tis riſen to a ſtrange increaſe, by a compacted policy, and the ſecret union of thoſe that enter into it; and in that by mutual aſſiſtances, and corre<g ref="char:EOLhyphen"/>ſpondencies they keep their poor from appear<g ref="char:EOLhyphen"/>ing publickly, and freely ſupport the neceſſi<g ref="char:EOLhyphen"/>ties of one another: And let it be no offence, to <hi>provoke you to Emulation,</hi>
+               <note place="margin">Rom. 11.14.</note> (as S. <hi>Paul</hi> ſpeaks) and to quicken your charity, by mentioning thoſe who are continually making work for it. <hi>Secondly,</hi> Another incitement hereunto may be this, that the foundation of your wealth, and ſettlement, was laid out of what was pecu<g ref="char:EOLhyphen"/>liarly<note n="*" place="margin">Ego Aethel<g ref="char:EOLhyphen"/>bertus Rex tradidi Deo aliquam par<g ref="char:EOLhyphen"/>tem terrae juris mei. <hi>Spelm. Con<g ref="char:EOLhyphen"/>cil.</hi> p. <hi>119.</hi> Ego Aethe<g ref="char:EOLhyphen"/>lulphus Rex portionem terrae mea Deo concedam. <hi>Id.</hi> p. <hi>350.</hi> Ego Adelſtanus Rex mando Praepoſitis meis, ut reddant de meo proprio decimas Deo. <hi>Id.</hi> p. <hi>402.</hi> Sacerdotes populum inſtruant de his quae de jure Deo ſunt reddenda, decimae ſcilicet, &amp; res aliae. <hi>Conſtit. Edgar.</hi> Nemo auferat Deo quod ad Deum pertinet. <hi>Leg. Aethelr.</hi> Quiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Deo jura ritè perſolvito: decimas reddito. <hi>Leg. Canut.</hi> Decima garba Deo debita eſt, &amp; ideò reddenda. <hi>Leg. S. Edwar.</hi>
+               </note> 
+               <hi>conſecrated</hi> to God: And then 'tis the
+<pb n="24" facs="tcp:94195:14"/>more neceſſary to offer him ſome propor<g ref="char:EOLhyphen"/>tionable requital; and to cancel your Debt to the <hi>Church,</hi> by providing for her Fa<g ref="char:EOLhyphen"/>therleſs Children, and Widows. It was the ancient Notion, That the<note n="†" place="margin">Auguſtin. <hi>Ep. L. ad</hi> Bo<g ref="char:EOLhyphen"/>nif. Iſidor. Pel. <hi>l.</hi> 1. <hi>Ep.</hi> 269. Proſper. de Vit. Cont. <hi>l.</hi> 2. <hi>c.</hi> 9. Ba<g ref="char:EOLhyphen"/>ſil. <hi>T.</hi> 1. <hi>p.</hi> 916. &amp; Epiſt. 69.</note> 
+               <hi>Revenues of the Church</hi> were the <hi>Patrimony of the poor;</hi> and they were uſually put into the Hands of the<note n="*" place="margin">Canon. A<g ref="char:EOLhyphen"/>poſtol. 38, 40, 41. Can. An<g ref="char:EOLhyphen"/>tioch. 24, 25. Conſtitut. A<g ref="char:EOLhyphen"/>poſt. <hi>l.</hi> 2. <hi>c.</hi> 25, 27. Aelfrici Canon. 24. Greg. Nyſſen. <hi>Vit. S. Macr.</hi> Ambroſ. Of<g ref="char:EOLhyphen"/>fic. <hi>l.</hi> 1. <hi>c.</hi> 30. &amp; <hi>l.</hi> 2. <hi>c.</hi> 28.</note> 
+               <hi>Biſhops,</hi> that the Surpluſage above the decent Maintenance of the <hi>Clergy,</hi> might be diſtributed to charitable uſes: And then it cannot be deny'd, that what hath been built upon the <hi>Endowments</hi> of the Church, ought to pay a <hi>Ground-rent</hi> of Charity. <hi>Thirdly,</hi> Let us conſider, that the more we have proſper'd by God's ſpecial Benediction upon our Induſtry and Labours; the great<g ref="char:EOLhyphen"/>er is our Obligation of making ſuitable returns in Piety, and Mercy: And he that gave us our Poſſeſſions, did not make us the <hi>Proprietours,</hi> but the <hi>Stewards</hi> of them. God hath rais'd many of you to wealthy and honourable Employments; and there is ſcarce any Dignity in Church, or State, any Profeſſion, or Calling, or Rank, which ſome of this Body have not advanc'd the Reputation of: So that we may ſay to thoſe of the other Tribes in the Words of<note n="*" place="margin">Apol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>c. 37.</hi>
+               </note> 
+               <hi>Tertullian; Veſtra omnia implevimus,
+<pb n="25" facs="tcp:94195:14"/>urbes, municipia, caſtra, decurias, pala<g ref="char:EOLhyphen"/>tium, ſenatum, forum:</hi> And this as it con<g ref="char:EOLhyphen"/>firms God's ancient Promiſes of Bleſſing the Seed of the Righteous; ſo it reminds us, that ſince by his kind <hi>Providence</hi> our branches are ſpread ſo far, it be<g ref="char:EOLhyphen"/>comes us in all places through which we paſs, to leave ſome footſteps of our vertuous Education, and of the Princi<g ref="char:EOLhyphen"/>ples inſtill'd into us by our religious Parents: to whoſe Memory we cannot dedicate a better <hi>Monument,</hi> than the Publick Fruits of their Cultivation; and a Life anſwerable to their Inſtructions, and Prayers. <hi>Fourthly,</hi> Let it be Con<g ref="char:EOLhyphen"/>ſider'd, that we claim a nearer Relation to the Church, and ſolemnly call our ſelves, <hi>The Sons of the Church of</hi> England: and therefore we ought, above all Men, not only to be ſtedfaſt to her <hi>Commu<g ref="char:EOLhyphen"/>nion;</hi> but to do every thing that tends to the Honour, and Eſtabliſhment of it. 'Tis plain, nothing can more Conduce hereunto, than the good Works, and Charity, and Love, and Innocence of thoſe that enter into her Gates: and accordingly let this be our way of ſtand<g ref="char:EOLhyphen"/>ing
+<pb n="26" facs="tcp:94195:15"/>up in her Defence; and let us plead for our Communion by the Goodneſs of our Lives, and the Tenderneſs of our Hearts; and by walking ſuitably to the <hi>Scriptures,</hi> which we have had an early Acquaintance with. <hi>Laſtly,</hi> Since this is the time of commemorating our Saviour's <hi>Advent;</hi> let us be excited to Charity and Love, by reviewing the won<g ref="char:EOLhyphen"/>derful Mercies of it; and by conſidering earneſtly what he did, in remembring Man, who had forgotten himſelf; in vi<g ref="char:EOLhyphen"/>ſiting the Earth under the Form of a Ser<g ref="char:EOLhyphen"/>vant, when it was overſpread with Dark<g ref="char:EOLhyphen"/>neſs, and Deſtruction was marching through all the parts of the Univerſe; and in Re<g ref="char:EOLhyphen"/>deeming us by the Blood of his Croſs, when we were his Enemies, and utterly unworthy of Salvation from him. We cannot ſay here, <hi>Go, and do thou likewiſe;</hi> we cannot approach to the myſterious height of his incomprehenſible Love: but we can do what is neceſſary for us; we can adore, and follow him at an humble diſtance; and he will accept of our im<g ref="char:EOLhyphen"/>perfect Obedience, and enable us for higher Degrees of it, and enſure to us an eternal
+<pb n="27" facs="tcp:94195:15"/>Reward; if we live ſincerely according to his fundamental Preſcription,<note place="margin">Joh. 15.12.</note> 
+               <hi>This is my Commandment,</hi> my great, and diſtin<g ref="char:EOLhyphen"/>guiſhing Commandment, <hi>that ye love one another, as I have loved you.</hi>
+               <note place="margin">Rev. 1.5, 6.</note> 
+               <hi>To him that</hi> thus <hi>loved us, and waſhed us from our Sins in his own Blood;</hi> together with the Fa<g ref="char:EOLhyphen"/>ther, and the Holy Ghoſt; <hi>be Glory, and Dominion for ever, and ever.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
